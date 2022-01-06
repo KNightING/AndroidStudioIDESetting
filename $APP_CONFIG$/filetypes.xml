@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="db" type="Native" />
+      <mapping pattern="OR_Return_Item_F" type="PLAIN_TEXT" />
+      <mapping pattern="OR_Return_Publication_F" type="PLAIN_TEXT" />
+      <mapping pattern="APPLUMST" type="PLAIN_TEXT" />
+      <mapping pattern="APSTNGMS" type="PLAIN_TEXT" />
+      <mapping pattern="APGONDLM" type="PLAIN_TEXT" />
+      <mapping ext="processor" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="tab" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+    </extensionMap>
+  </component>
+</application>
