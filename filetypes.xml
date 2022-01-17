@@ -7,14 +7,15 @@
       <mapping pattern="OR_Return_Item_F" type="PLAIN_TEXT" />
       <mapping pattern="OR_Return_Publication_F" type="PLAIN_TEXT" />
       <mapping pattern="APPLUMST" type="PLAIN_TEXT" />
-      <mapping pattern="APGONDLM" type="PLAIN_TEXT" />
       <mapping pattern="APSTNGMS" type="PLAIN_TEXT" />
+      <mapping pattern="APGONDLM" type="PLAIN_TEXT" />
       <mapping ext="processor" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="tab" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
