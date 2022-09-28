@@ -4,7 +4,7 @@
     <property name="created">2018-08-30T14:23:05</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.4.0</property>
-    <property name="modified">2022-06-10T13:15:35</property>
+    <property name="modified">2022-09-28T09:03:12</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -574,15 +574,15 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f77669" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="Class">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -1239,6 +1239,41 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3a3b3f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="373f3c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3e403a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="423d39" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="423737" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="423334" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="3e2121" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="c3e88d" />
@@ -1350,13 +1385,13 @@
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="KOTLIN_LABEL" baseAttributes="" />
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="" />
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value />
     </option>
@@ -1369,7 +1404,7 @@
     <option name="KOTLIN_SMART_CONSTANT">
       <value />
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
