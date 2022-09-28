@@ -1,0 +1,12 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="com.ptc.oneboy.inventory.debug" />
+    <option name="nonFavorites">
+      <list>
+        <option value="com.ptc.oneboy.inventory.debug" />
+        <option value="oneb" />
+        <option value="package:mine" />
+      </list>
+    </option>
+  </component>
+</application>
