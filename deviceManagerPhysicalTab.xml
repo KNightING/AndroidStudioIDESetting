@@ -66,6 +66,28 @@
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="MT95-RJ-CF00197" />
+          </Key>
+        </key>
+        <name value="Newland NLS-MT95" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-MT95-RJ-CF00197-Igjcxp._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Newland NLS-MT95" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
