@@ -1,6 +1,6 @@
 <application>
   <component name="DiscordApplicationSettings">
-    <option name="show" value="true" />
+    <option name="show" value="false" />
     <option name="idle" value="IDLE" />
     <option name="applicationTime" value="APPLICATION" />
     <option name="projectTime" value="APPLICATION" />
