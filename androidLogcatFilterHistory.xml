@@ -5,12 +5,11 @@
         <option value="com.ptc.oneboy.inventory.debug" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine &quot;scan_barcode_type is&quot;" />
-        <option value="package:mine " />
         <option value="scannerReceiver" />
         <option value="level:debug" />
         <option value="oneb" />
