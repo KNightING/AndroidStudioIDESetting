@@ -5,16 +5,29 @@
         <option value="com.ptc.oneboy.inventory.debug" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine TAG" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine TAG" />
-        <option value="package:mine " />
-        <option value="package:mine &quot;scan_barcode_type is&quot;" />
-        <option value="package:mine" />
-        <option value="scannerReceiver" />
-        <option value="level:debug" />
-        <option value="oneb" />
+        <option value="package:mine level:debug " />
+        <option value="package:mine level:debug" />
+        <option value="package:mine level:debug tag:t" />
+        <option value="package:mine level:debug t" />
+        <option value="package:mine level:debug p" />
+        <option value="package:mine level:debug l" />
+        <option value="package:mine level:debug r" />
+        <option value="package:mine level:debug d" />
+        <option value="package:mine level:debug i" />
+        <option value="package:mine level:debug c" />
+        <option value="package:mine level:debug a" />
+        <option value="package:mine level:debug w" />
+        <option value="package:mine level:debug e" />
+        <option value="package:mine level:debug  " />
+        <option value="package:mine level:debug l " />
+        <option value="package:mine l " />
+        <option value="package:mine level:debug f" />
+        <option value="package:mine D" />
+        <option value="package:mine d" />
+        <option value="package:mine l" />
       </list>
     </option>
   </component>
